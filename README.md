@@ -11,7 +11,7 @@ I work at the intersection of machine learning, cheminformatics, and molecular s
 - 🔬 High-throughput peptide screening pipelines combining unsupervised ML with molecular dynamics
 - 🤖 Agentic AI for computational chemistry — LLM tool-harness workflows (MCP / Claude Skills) that automate protein structure preparation and simulation setup — see [CHARMM-GUI PDB Reader skill](https://github.com/aditya1707/charmm-gui-claude-skills)
 - 🛠️ Open-source scientific software — core developer and maintainer of [ChemML](https://github.com/hachmannlab/chemml), and co-developer of [FK-eABF](https://github.com/aditya1707/ForceKernel-eABF), a PLUMED enhanced-sampling plugin that recovers converged free-energy landscapes from the earliest stages of sampling
-- 📄 Published protein & biomaterials MD in 2026: silaffin biomineralization (JPC B, first author), a force-kernel enhanced-sampling method (JCTC), and ELP phase behavior (Soft Matter)
+- 📄 Published protein & biomaterials MD in 2026: silaffin biomineralization (JPC B), a force-kernel enhanced-sampling method (JCTC), and ELP phase behavior (Soft Matter)
 
 ### Areas of focus
 
